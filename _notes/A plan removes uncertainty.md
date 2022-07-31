@@ -1,0 +1,1 @@
+[[Uncertainty reduces confidence]]

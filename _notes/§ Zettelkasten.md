@@ -1,0 +1,6 @@
+[[§ Planning]]
+[[§ Strategy]]
+[[§ Confidence]]
+
+
+
