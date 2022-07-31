@@ -1,10 +1,10 @@
-title: Zettelkasten
-name: Zettelkasten
-user_description: Zettelkasten
+title: UX zettelkasten
+name: ""
+user_description: A nonlinear, emergent practice of writing in pursuit of learning
 notes_url: "https://zettelkasten.justinpocta.com"
 profile_pic: /assets/img/profile.png
 favicon: /assets/img/favicon.png
-copyright_name: MIT
+copyright_name: 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://zettelkasten.justinpocta.com" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
