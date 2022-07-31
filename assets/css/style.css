@@ -286,7 +286,7 @@ hr {
 }
 
 .avatar-link {    
-    background-color: #fff;
+    /* background-color: #fff; */
     border-radius: 50%;
     display: inline-block !important;
     float: left;
@@ -548,7 +548,9 @@ hr {
 }
 
 .title-sans {
-    font-family: Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+    font-family: 'EB Garamond', Georgia, serif !important;
+    font-style: italic;
+    /* Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important; */
 }
 
 .regular-sans {
