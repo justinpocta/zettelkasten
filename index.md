@@ -6,3 +6,4 @@ layout: post
 permalink: /
 ---
 
+Welcome to my public Zettelkasten.
