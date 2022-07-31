@@ -1,12 +1,12 @@
 title: Zettelkasten
 name: Zettelkasten
 user_description: Zettelkasten
-notes_url: "https://zetteljustin.netlify.app"
+notes_url: "https://zettelkasten.justinpocta.com"
 profile_pic: /assets/img/profile.png
 favicon: /assets/img/favicon.png
 copyright_name: MIT
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://zetteljustin.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://zettelkasten.justinpocta.com" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
 
 # Build settings
