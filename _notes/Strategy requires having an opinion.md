@@ -3,4 +3,4 @@ tags: strategy
 toc: true
 ---
 
-[[Having a _valuable_ opinion requires understanding the landscape]]
+[[Having a valuable opinion requires understanding the landscape]]
