@@ -1,6 +1,6 @@
 ---
 title: People are not machines
-tags: empathy, assumption
+tags: empathy assumption
 toc: true
 ---
 
