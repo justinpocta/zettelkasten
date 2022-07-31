@@ -1,6 +1,8 @@
 # Notenote.link
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7b37d412-1240-44dd-8539-a7001465b57a/deploy-status)](https://app.netlify.com/sites/notenotelink/deploys)
+Mine: [![Netlify Status](https://api.netlify.com/api/v1/badges/47f8bcc0-636e-4f67-be9d-f5337d276215/deploy-status)](https://app.netlify.com/sites/hilarious-sherbet-270247/deploys)
+
+NoteNote's: [![Netlify Status](https://api.netlify.com/api/v1/badges/7b37d412-1240-44dd-8539-a7001465b57a/deploy-status)](https://app.netlify.com/sites/notenotelink/deploys)
 
 ## Update !
 
