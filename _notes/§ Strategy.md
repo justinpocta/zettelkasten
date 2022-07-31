@@ -1,3 +1,9 @@
+---
+title: Strategy Hub
+tags: Strategy
+toc: true
+---
+
 # Strategy 
 
 [[Strategy in the short term should be influenced by long term thinking]]
