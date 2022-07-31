@@ -1,5 +1,4 @@
 ---
-title: 
-tags: goals
+tags: goal
 toc: true
 ---

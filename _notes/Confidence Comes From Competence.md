@@ -1,3 +1,8 @@
+---
+tags: 
+toc: true
+---
+
 [[Source - 2x2]]
 
 1: [[§ Confidence]] Comes From Competence

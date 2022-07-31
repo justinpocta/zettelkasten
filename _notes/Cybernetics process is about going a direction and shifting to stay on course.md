@@ -1,3 +1,8 @@
+---
+tags: cybernetics goal
+toc: true
+---
+
 [[Staying on course requires goals]]
 [[Staying on course requires awareness of tides and winds]]
 

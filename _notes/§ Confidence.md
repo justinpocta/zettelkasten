@@ -1,5 +1,5 @@
 ---
 title: Confidence
-tags: 
+tags: self
 toc: true
 ---

@@ -1,3 +1,8 @@
+---
+tags: struggle 
+toc: true
+---
+
 I started this morning with a client conversation about the discomfort inherent in the design process.  
   
 So, have a quote from Conversational Design:  

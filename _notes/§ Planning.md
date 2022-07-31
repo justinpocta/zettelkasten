@@ -1,3 +1,8 @@
+---
+tags: plan
+toc: true
+---
+
 # Planning 
 
 [[A plan requires understanding]] 

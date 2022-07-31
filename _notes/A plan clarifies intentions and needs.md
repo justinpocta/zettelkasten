@@ -1,6 +1,5 @@
 ---
-title: 
-tags: plans
+tags: plan
 toc: true
 ---
 

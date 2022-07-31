@@ -1,6 +1,6 @@
 ---
 title: Strategy Hub
-tags: Strategy
+tags: strategy
 toc: true
 ---
 
