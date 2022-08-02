@@ -1,5 +1,5 @@
 ---
-title: Strategy Hub
+title: On Strategy
 tags: strategy hub
 toc: true
 ---

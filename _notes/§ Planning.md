@@ -1,10 +1,8 @@
 ---
-Title: Planning Hub
+title: On Planning
 tags: plan hub
 toc: true
 ---
-
-# Planning 
 
 - [[A plan requires understanding]] 
 - [[A plan requires alignment]]

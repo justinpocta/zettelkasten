@@ -1,5 +1,5 @@
 ---
-title: Zettelkasten Hub
+title: On Zettelkasten
 tags: Zettelkasten hub
 toc: true
 ---
@@ -15,3 +15,6 @@ A _zettelkasten_ consists of many individual notes with ideas and other short 
 A _zettelkasten_ may be created and used in a digital format, sometimes using personal knowledge management software. But it can be and has long been done on paper using index cards.
 
 The system not only allows a researcher to store and retrieve information related to their research, but has also been used to enhance creativity.
+
+
+[[My Zettelkasten Approach]]

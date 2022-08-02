@@ -1,9 +1,8 @@
 ---
+title: On UX Strategy
 tags: strategy hub
 toc: true
 ---
-
-# UX Strategy
 
 - [[Strategy is simply a plan]]
 

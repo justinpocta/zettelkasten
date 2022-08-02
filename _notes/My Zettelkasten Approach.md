@@ -1,0 +1,2 @@
+- Are my notes too short, too fragmented ([[Notes should be atomic]])
+- Add plans to [[My Questions About This Tool]]
