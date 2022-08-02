@@ -3,7 +3,7 @@ title: On Zettelkasten
 tags: Zettelkasten hub
 toc: true
 ---
-
+#strategy  
 ## What is Zettelkasten?
 
 *Introduction from [Wikipedia](https://en.wikipedia.org/wiki/Zettelkasten) description:*

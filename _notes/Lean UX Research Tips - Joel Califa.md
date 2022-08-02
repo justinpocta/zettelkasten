@@ -9,17 +9,17 @@ notetype: reference
 
 ---
 
-![[UXR-Github-Tip-General-01.png]]
-![[UXR-Github-Tip-General-02.png]]
-![[UXR-Github-Tip-General-03.png]]
-![[UXR-Github-Tip-General-04.png]]
+![](/assets/img/UXR-Github-Tip-General-01.png)
+![](UXR-Github-Tip-General-02.png)
+![](UXR-Github-Tip-General-03.png)
+![](UXR-Github-Tip-General-04.png)
 
 **What do you want to validate?**
 - Write up your Hypotheses, Assumptions, and Knowledge Gaps
-	- ![[UXR-Github-Hypotheses and Assumptions and Gaps in Knowledge.png]]
+	![](/assets/img/UXR-Github-Hypotheses%20and%20Assumptions%20and%20Gaps%20in%20Knowledge.png)
 
 **Assumptions/Gap Questions from General to Specific Levels → Types of Research**
-- ![[UXR-Github-Question Types.png]]
+- ![](/assets/img/UXR-Github-Question%20Types.png)
 - **High-Level Questions**
 	- Usually best answered with user interviews
 	- High-level questions have less to do with our specific implementation.
@@ -45,19 +45,19 @@ notetype: reference
 
 Shipping =/= finished. It is opportunity to gather more info later.
 
-![[UXR-Github-Tip-Plan-01.png]]
+![](/assets/img/UXR-Github-Tip-Plan-01.png)
 **Vague → Specific**
 - To help avoid tainting the information by "newness” of a feature, start more general
 - Listen and Learn first, Show ideas secondarily.
 
 
-![[UXR-Github-Tip-Plan-02.png]]
+![](/assets/img/UXR-Github-Tip-Plan-02.png)
 
 **Example Research Plan**
-- ![[UXR-Github-Tip-Plan-Template.png]]
-- ![[UXR-Github-Tip-Plan-Example-01.png]]
-- ![[UXR-Github-Tip-Plan-Example-02.png]]
-- ![[UXR-Github-Tip-Plan-Example-03.png]]
+- ![](/assets/img/UXR-Github-Tip-Plan-Template.png)
+- ![](/assets/img/UXR-Github-Tip-Plan-Example-01.png)
+- ![](/assets/img/UXR-Github-Tip-Plan-Example-02.png)
+- ![](/assets/img/UXR-Github-Tip-Plan-Example-03.png)
 	Note: "Suggested Changes" is the feature name
 
 
@@ -66,13 +66,14 @@ Shipping =/= finished. It is opportunity to gather more info later.
 
 ## Tips for User Interviews
 
-![[UXR-Github-Tip-Interview-01.png]]
-![[UXR-Github-Tip-Interview-02.png]]
-![[UXR-Github-Tip-Interview-03.png]]
-![[UXR-Github-Tip-Interview-04.png]]
-![[UXR-Github-Tip-Interview-05.png]]![[UXR-Github-Tip-Interview-06.png]]
-![[UXR-Github-Tip-Interview-07.png]]
-![[UXR-Github-Tip-Interview-08.png]]
+![](/assets/img/UXR-Github-Tip-Interview-01.png)
+![](/assets/img/UXR-Github-Tip-Interview-02.png)
+![](/assets/img/UXR-Github-Tip-Interview-03.png)
+![](/assets/img/UXR-Github-Tip-Interview-04.png)
+![](/assets/img/UXR-Github-Tip-Interview-05.png)
+![](/assets/img/UXR-Github-Tip-Interview-06.png)
+![](/assets/img/UXR-Github-Tip-Interview-07.png)
+![](/assets/img/UXR-Github-Tip-Interview-08.png)
 
 **< - end of User Interview Tips - >**
 
@@ -80,55 +81,57 @@ Shipping =/= finished. It is opportunity to gather more info later.
 
 ## Tips for Usability Tests
 
-1
-![[UXR-Github-Tip-Test-01.png]]
-2
-![[UXR-Github-Tip-Test-02.png]]
-3
-**Title each step by what they’re supposed to be doing in the test**
-- ![[UXR-Github-Tip-Test-Example.png]]
+- 1
+![](/assets/img/UXR-Github-Tip-Test-01.png)
+- 2
+![](/assets/img/UXR-Github-Tip-Test-02.png)
 
-![[UXR-Github-Tip-Test-03.png]]
-![[UXR-Github-Tip-Test-04.png]]
-![[UXR-Github-Tip-Test-05.png]]
-![[UXR-Github-Tip-Test-06.png]]
-![[UXR-Github-Tip-Test-07.png]]
-![[UXR-Github-Tip-Test-08.png]]
-**< - end of Usability Test Tips - >**
+- 3
+	- **Title each step by what they’re supposed to be doing in the test**
+
+- ![](/assets/img/UXR-Github-Tip-Test-Example.png)
+
+![](/assets/img/UXR-Github-Tip-Test-03.png)
+![](/assets/img/UXR-Github-Tip-Test-04.png)
+![](/assets/img/UXR-Github-Tip-Test-05.png)
+![](/assets/img/UXR-Github-Tip-Test-06.png)
+![](/assets/img/UXR-Github-Tip-Test-07.png)
+![](/assets/img/UXR-Github-Tip-Test-08.png)
+- **< - end of Usability Test Tips - >**
 
 ---
 
 ## Research Sourcing Tips
 
-![[UXR-Github-Tip-Sourcing-01.png]]
+![](/assets/img/UXR-Github-Tip-Sourcing-01.png)
 
 ---
 
 ## Research Moderation Tips
 
-![[UXR-Github-Tip-Moderation-01.png]]
-![[UXR-Github-Tip-Moderation-02.png]]
-![[UXR-Github-Tip-Moderation-03.png]]
-![[UXR-Github-Tip-Moderation-04.png]]
-![[UXR-Github-Tip-Moderation-05.png]]
-![[UXR-Github-Tip-Moderation-06.png]]
-![[UXR-Github-Tip-Moderation-07.png]]
-![[UXR-Github-Tip-Moderation-08.png]]
-![[UXR-Github-Tip-Moderation-09.png]]
+![](/assets/img/UXR-Github-Tip-Moderation-01.png)
+![](/assets/img/UXR-Github-Tip-Moderation-02.png)
+![](/assets/img/UXR-Github-Tip-Moderation-03.png)
+![](/assets/img/UXR-Github-Tip-Moderation-04.png)
+![](/assets/img/UXR-Github-Tip-Moderation-05.png)
+![](/assets/img/UXR-Github-Tip-Moderation-06.png)
+![](/assets/img/UXR-Github-Tip-Moderation-07.png)
+![](/assets/img/UXR-Github-Tip-Moderation-08.png)
+![](/assets/img/UXR-Github-Tip-Moderation-09.png)
 
 ---
 
 ## Post-Research Meeting Tip
 
-![[UXR-Github-Tip-General-05.png]]
+![](/assets/img/UXR-Github-Tip-General-05.png)
 
 ---
 
 ## Main Take Aways:
-![[UXR-Github-Tip-Takeaways-01.png]]
-![[UXR-Github-Tip-Takeaways-02.png]]
-![[UXR-Github-Tip-Takeaways-03.png]]
-![[UXR-Github-Tip-Takeaways-04.png]]
+![](/assets/img/UXR-Github-Tip-Takeaways-01.png)
+![](/assets/img/UXR-Github-Tip-Takeaways-02.png)
+![](/assets/img/UXR-Github-Tip-Takeaways-03.png)
+![](/assets/img/UXR-Github-Tip-Takeaways-04.png)
 
 
 ---
@@ -145,12 +148,13 @@ Shipping =/= finished. It is opportunity to gather more info later.
 	- Ask “What Kinds of Changes” AND “Tell me specific changes you suggested”
 	- Ask question from a few different answers (like, with their role in a workflow—in his project a user could be a reviewer and have their code reviewed.) Semantic differences to gather more insights.
 + Make sure you get good data by **asking follow up questions**
-	- ![[Tweet-Molly-Telford-Right-Questions.png]]
+	- ![](/assets/img/Tweet-Molly-Telford-Right-Questions.png)
 - Learn as much as you CAN, don't just check boxes of “YES OR NO?!”
 + What’s important is very subjective - free pass into how someone things (what's important to different types of users and why)
-	+ ![[UXR-Github-Tip-Interview-09.png]]
+	+ ![](/assets/img/UXR-Github-Tip-Interview-09.png)
 	+ Vague to Specific:
-	- ![[UXR-Github-Tip-Interview-10.png]]
+	- ![](/assets/img/UXR-Github-Tip-Interview-10.png)
+
 
 
 

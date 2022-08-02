@@ -4,6 +4,10 @@ tags: empathy assumption research
 toc: true
 ---
 
+- **202208021456** - *I am realizing that as a write about customers, I am doing so from a very enterprise-y mindset with customer as a stakeholder at another company, using a product for their company's purposes. A consumer customer would bring about other aspects I may be overlooking here.*
+
+---
+
 My thought here ties to a few concepts:
 - [[Trust is an important factor of communication]]
 	- If a customer or even colleague does not trust you, they may withhold or avoid a topic as to protect themselves or you from a critique or concern

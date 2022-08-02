@@ -10,7 +10,7 @@ notetype:
 
 ---
 
-![[The Cognitive Bias Codex.svg]]
+![svg](/assets/img/The%20Cognitive%20Bias%20Codex.svg)
 via [Wikipedia - Cognitive Bias](https://en.wikipedia.org/wiki/Cognitive_bias)
 
 ## What Should We Remember
@@ -21,7 +21,7 @@ via [Wikipedia - Cognitive Bias](https://en.wikipedia.org/wiki/Cognitive_bias)
 
 ## Too Much Information
 + We notice things already primed in memory or repeated often 
-	- [[Lean UX Research Tips - Joel Califa|Joel Califa on bias]] of people thinking about a topic we ask about - which is why we much ask general first then specific
+	- [[Lean UX Research Tips - Joel Califa]] → On bias regarding people thinking more about a topic after a researcher asks about it - which is why one much ask general questions first, then specific, as not to stir up ideas and direct user feedback unintentionally
 - Bizarre, funny, visually striking, or anthropomorphic things stick out more than non-bizarre/unfunny things
 - We are drawn to details that confirm our own existing beliefs
 - We notice flaws in others more easily than we notice flaws in ourselves

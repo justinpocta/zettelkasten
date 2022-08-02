@@ -1,9 +1,11 @@
 ---
 layout: post
-title: About
-permalink: /about/
+title: Info
+permalink: /info/
 content-type: eg
 ---
+
+*This site exists as a nonlinear, emergent writing practice in pursuit of continuous growth and evolution as a designer*
 
 I'm [Justin Pocta](http://justinpocta.com), a product designer in Dallas, TX. 🌵 Welcome to my attempt at hosting my own Zettelkasten (of sorts).
 
