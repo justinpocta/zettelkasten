@@ -5,25 +5,6 @@ _site
 vendor
 .idea
 .DS_Store
-.obsidian/app.json
-.obsidian/appearance.json
-.obsidian/command-palette.json
-.obsidian/core-plugins.json
-.obsidian/hotkeys.json
-.obsidian/themes/Ars Magna.css
-.obsidian/themes/Ayu.css
-.obsidian/themes/Big Sur Aesthetic.css
-.obsidian/themes/Deep Work.css
-.obsidian/themes/Minimal.css
-.obsidian/themes/Notation.css
-.obsidian/themes/Obsidian You.css
-.obsidian/themes/Sanctum.css
-.obsidian/themes/Things.css
-.obsidian/themes/Yin and Yang.css
-.obsidian/workspace
-_notes/HOW-TO/How to use the special features.md
-_notes/HOW-TO/how-markdown-is-rendered.md
-_notes/HOW-TO/How-to-setup-this-site.md
-_notes/HOW-TO/Obsidian integration.md
-.obsidian/graph.json
-.obsidian/templates.json
+.obsidian
+_notes/HOW-TO
+_daily

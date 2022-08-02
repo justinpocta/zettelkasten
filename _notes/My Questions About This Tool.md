@@ -31,21 +31,22 @@ On Structure
 
 1
 
-![[note template]]
+![[Template-Note]]
 ![[Discomfort]]
 
 —-
 
 2
 
-![][[note template]]
+![][[Template-Note]]
+
 ![][[Discomfort]]
 
 —-
 
 3
 
-![](../_templates/note template)
-![](Discomformt)
+![](../_templates/Template-Note)
+![](Discomfort.md)
 
 
