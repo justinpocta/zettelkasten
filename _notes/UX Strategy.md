@@ -1,14 +1,19 @@
 ---
-tags: strategy
+tags: strategy hub
 toc: true
 ---
 
 # UX Strategy
 
-- 202207301159 I am learning how to use Simply-Jekyll / NoteNote.Link and whether the reference to images works as easily as it does in [[Desktop Markdown Tools\|Obsidian]], as well as uses references.
+- [[Strategy is simply a plan]]
 
+- [[A High Level Perspective of Strategy]] will help see the sights and turns ahead, which allows for [[§ Planning|planning]] which is critical to enable efficiency in reacting.
+- Strategic Plan of a Company
+- Strategic Plan of a Product
+- Strategic Plan of a UX Department
+	- Plan of a Team (Career Ladder, Dynamics, Growth of a Team)
+	- Plan of a Project
+		- Plan of a Research Project
+			- Plan of a Usability Test
 
-![Strategy Timeline](../assets/img/UX-Strategy-Process-Timeline.png)
-![Strategy Funnel](../assets/img/UX-Strategy-Process-Funnel.png)
-![Strategy Stages](../assets/img/UX-Strategy-Process-Stages.png)
 

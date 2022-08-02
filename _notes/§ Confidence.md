@@ -1,5 +1,5 @@
 ---
-title: Confidence
-tags: self
+title: Confidence Hub
+tags: self hub
 toc: true
 ---

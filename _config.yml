@@ -8,7 +8,7 @@ copyright_name:
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://zettelkasten.justinpocta.com" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
-exclude: [vendor] 
+exclude: [vendor] # this was a recommendation to get around issues with invalid date when launching jekyll server https://github.com/jekyll/jekyll/issues/5267
 
 # Build settings
 theme: null
