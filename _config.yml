@@ -8,6 +8,7 @@ copyright_name:
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://zettelkasten.justinpocta.com" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
+exclude: [vendor] 
 
 # Build settings
 theme: null

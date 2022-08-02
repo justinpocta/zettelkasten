@@ -1,8 +1,10 @@
-# Notenote.link
+# Netlify Hosting
 
-Mine: [![Netlify Status](https://api.netlify.com/api/v1/badges/47f8bcc0-636e-4f67-be9d-f5337d276215/deploy-status)](https://app.netlify.com/sites/hilarious-sherbet-270247/deploys)
+ [![Netlify Status](https://api.netlify.com/api/v1/badges/47f8bcc0-636e-4f67-be9d-f5337d276215/deploy-status)](https://app.netlify.com/sites/hilarious-sherbet-270247/deploys)
 
-NoteNote's: [![Netlify Status](https://api.netlify.com/api/v1/badges/7b37d412-1240-44dd-8539-a7001465b57a/deploy-status)](https://app.netlify.com/sites/notenotelink/deploys)
+**2022-08-01** - FYI to anyone checking out my Github, I had a lot of trouble as a designer / very non-pro developer. I spent the weekend trying to understand how to get this site to run locally on my M1 mac. I ended up using RVM to manage a pre-Ruby 3.0 version due to what I assume were some gems that weren't able to run on newer versions (listen-3.2.1 stated it was incompatible with ruby 3.0.0p0). I didn't have luck getting Ruby 2.2.7 to work (noted in the Gemlock file), so I landed on a slightly newer version of Ruby 2.6.6 hoping the gems would work with it. Then I got Bundler:2.1.4 installed, had trouble with **eventmachine** and **http_parser.rb** and **ffi** gems but somehow forced them through. I got Jekyll 4.0 installed. Then to make Ruby 2.6.6 load on my M1, I used a method that I don't understand but read here on Github Issues `RUBY_CFLAGS=-DUSE_FFI_CLOSURE_ALLOC rbenv install 2.6.6`. I finally got Bundle Install to finish and then ran into a TypeError with ffi. Looking around I learned adding `exclude: [vendor]`  to `_config.yml` would help to skip or handle an **Invalid Date** issue when running `jekyll serve` command. Anyway, no idea if any of that makes sense, but this was hard to get running locally for me and for now, it appears to be running!
+
+---
 
 ## Update !
 
