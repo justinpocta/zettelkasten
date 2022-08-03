@@ -1,5 +1,5 @@
 ---
-title: 
+title: Lean UX Research at Github by Joel Califa
 tags: research tips
 toc: true
 notetype: reference
