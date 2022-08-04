@@ -15,4 +15,4 @@ toc: true
 - [[Strategy is simply a plan]]
 - [[A plan clarifies intentions and needs]]
 - [[A plan points out knowledge gaps]]
-- [[A plan can be flexible]]
+- [[A plan can adapt]]
