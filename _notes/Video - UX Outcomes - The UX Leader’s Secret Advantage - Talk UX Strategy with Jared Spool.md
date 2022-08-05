@@ -99,7 +99,7 @@ What will make people pay more? Or more people pay *something* for the first tim
 	- Neutral point in the middle 😴
 	- Extreme frustration 🤬
 
-![img](Video-UX-Outcomes-Satisfaction-Diagram-03.png)
+![img](../assets/img/Video-UX-Outcomes-Satisfaction-Diagram-03.png)
 
 
 When conducting things like usability tests, we tend to **focus** on the items that fall into area of **frustration**. We look at this world of frustration and we can look to fix it in our **design recomendations**. When we get to the neutral point after eliminating the frustration, we are in the world of making things **usable**.
@@ -149,10 +149,10 @@ UX *team* is important as it:
 Where I tend to focus is by reframing what we're looking at - **very explicit improvements, like observable change** - what we can do there is to say right now on scale of frustration to delight, some delight in places of a product or service, etc
 
 Journey Map to explain the point:
-![img](Video-UX-Outcomes-Satisfaction-Diagram-01.png)
+![img](../assets/img/Video-UX-Outcomes-Satisfaction-Diagram-01.png)
 
 Now, by having spotted the frustration - what we have to do to not just hit the baseline, but to create delight in those spaces? Insight by studying current experience that none of the competitors have done yet.
-![img](Video-UX-Outcomes-Satisfaction-Diagram-02.png)
+![img](../assets/img/Video-UX-Outcomes-Satisfaction-Diagram-02.png)
 The value in identifying the valleys and how to reach product market fit - the product markets itself if you solve those problems.
 
 A place where we ran into trouble

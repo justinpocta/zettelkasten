@@ -24,9 +24,11 @@ Roger Martin interview with HBR Youtube on Jun 29, 2022
 	- More recently, there's been a discipline called "Strategy"
 	- People have put these two together to call something "Strategic Planning"
 	- Strategy =/= Planning
-![img](Video-A-Plan-is-not-a-Strategy-00.png)
+
+![img](../assets/img/Video-A-Plan-is-not-a-Strategy-00.png)
 	- Those things are not the same, and putting them together doesn't help. It often has nothing to do with strategy. It tends to be a set of activities a company says it is going to do (Improve Customer Experience, Open a new Plant, Start new talent development program). These things sounds good, but the results won't make the company happy because they didn't have a **strategy**.
-![img](Video-A-Plan-is-not-a-Strategy-01.png)
+
+![img](../assets/img/Video-A-Plan-is-not-a-Strategy-01.png)
 
 ---
 ## So what is a strategy? [01:00](https://www.youtube.com/watch?v=iuYlGRnC7J8&t=60s) 
@@ -34,7 +36,7 @@ Roger Martin interview with HBR Youtube on Jun 29, 2022
 	- Strat•e•gy *noun*
 	- An *integrative* **set of choices** that **positions** you on a playing field of your choice in a way that you **win**
 
-![img](Video-A-Plan-is-note-a-Strategy-Definition.png)
+![img](../assets/img/Video-A-Plan-is-note-a-Strategy-Definition.png)
 - Strategy has a theory:
 	- states why we should be on a specific playing field
 	- states how on that playing field how we're going to be better at serving customers on that playing field
@@ -55,7 +57,7 @@ Roger Martin interview with HBR Youtube on Jun 29, 2022
 - ## Let's see a real-world example of strategy beating planning. [04:05](https://www.youtube.com/watch?v=iuYlGRnC7J8&t=245s)
 - When Southwest Airlines was small, instead of **planning** what routes to fly, etc, Southwest had a **strategy** for winning. At first, it looked irrelevant because it was tiny.
 
-![img](Video-A-Plan-is-note-a-Strategy-Example-01.png)
+![img](../assets/img/Video-A-Plan-is-note-a-Strategy-Example-01.png)
 - Their strategy was to **be a substitute for Greyhound**, a way more **convenient** way to get around **at a price that wasn't extraordinarily much greater** than a greyhound bus. 
 - Everyone else is flying hub and spoke, we'll fly point to point. 
 - But you only make money while in the air. Hub and spoke meant relying on other flights to arrive.
@@ -65,7 +67,7 @@ Roger Martin interview with HBR Youtube on Jun 29, 2022
 - They could run off of substantially lower cost which allowed them to offer substantially lower prices for customers.
 - As it worked, it allowed the company to grow and grow.
 
-![img](Video-A-Plan-is-note-a-Strategy-Example-02.png)
+![img](../assets/img/Video-A-Plan-is-note-a-Strategy-Example-02.png)
 - The major carriers  were not trying to win against one another, but playing to play, playing to participate. No theory of how they could be better than competitors. That worked, until someone (Southwest) came and figured out how to win.
 
 
