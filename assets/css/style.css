@@ -1049,12 +1049,15 @@ label.srs-toggle {
     margin-left: -20px;
     padding-left: 20px;
     padding-right: 40px;
+}
+
+#jekyll-seamless-relatedposts {
     padding-bottom: 80px;
 }
 
 #jekyll-seamless-backlinks {
     padding-bottom: 0px;
-    margin-bottom: -20px;
+    margin-bottom: 40px;
 }
 
 .related h4 {

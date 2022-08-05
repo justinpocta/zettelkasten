@@ -1,6 +1,6 @@
 ---
 title: Video - UX Outcomes - The UX Leader’s Secret Advantage - Talk UX Strategy with Jared Spool
-tags: process
+tags: process video
 toc: true
 notetype: 
 ---
