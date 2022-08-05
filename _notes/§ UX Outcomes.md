@@ -1,9 +1,9 @@
-
-
-
-
-
-
+---
+title: On UX Outcomes
+tags: process
+toc: true
+notetype: 
+---
 
 
 *via [[Video - UX Outcomes - The UX Leader’s Secret Advantage - Talk UX Strategy with Jared Spool]]:* 
