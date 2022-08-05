@@ -149,9 +149,11 @@ UX *team* is important as it:
 Where I tend to focus is by reframing what we're looking at - **very explicit improvements, like observable change** - what we can do there is to say right now on scale of frustration to delight, some delight in places of a product or service, etc
 
 Journey Map to explain the point:
+
 ![img](../assets/img/Video-UX-Outcomes-Satisfaction-Diagram-01.png)
 
 Now, by having spotted the frustration - what we have to do to not just hit the baseline, but to create delight in those spaces? Insight by studying current experience that none of the competitors have done yet.
+
 ![img](../assets/img/Video-UX-Outcomes-Satisfaction-Diagram-02.png)
 The value in identifying the valleys and how to reach product market fit - the product markets itself if you solve those problems.
 
