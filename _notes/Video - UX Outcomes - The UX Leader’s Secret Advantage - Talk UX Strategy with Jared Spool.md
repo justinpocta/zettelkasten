@@ -155,6 +155,7 @@ Journey Map to explain the point:
 Now, by having spotted the frustration - what we have to do to not just hit the baseline, but to create delight in those spaces? Insight by studying current experience that none of the competitors have done yet.
 
 ![img](../assets/img/Video-UX-Outcomes-Satisfaction-Diagram-02.png)
+
 The value in identifying the valleys and how to reach product market fit - the product markets itself if you solve those problems.
 
 A place where we ran into trouble
