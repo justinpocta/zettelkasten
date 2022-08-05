@@ -4,7 +4,7 @@ tags: strategy hub
 toc: true
 ---
 
-- [[Strategy is simply a plan]]
+- [[Strategy is a plan - but not all planning is strategy]]
 
 - [[A High Level Perspective of Strategy]] will help see the sights and turns ahead, which allows for [[§ Planning|planning]] which is critical to enable efficiency in reacting.
 - Strategic Plan of a Company

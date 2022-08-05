@@ -12,7 +12,7 @@ toc: true
 - [[A plan encourages collaboration]]
 - [[A plan enables repeatability]]
 - [[A plan creates organization]]
-- [[Strategy is simply a plan]]
+- [[Strategy is a plan - but not all planning is strategy]]
 - [[A plan clarifies intentions and needs]]
 - [[A plan points out knowledge gaps]]
 - [[A plan can adapt]]
