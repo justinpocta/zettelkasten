@@ -13,7 +13,7 @@ My plan here is to pull from my usage [Obsidian](http://obsidian.md) (or other M
 
 ---
 
-![img](../assets/img/obsidian.png)
+![img|750](../assets/img/Obsidian.png)
 *Above is an image of my workspace using Obsidian which I simply direct to use the Markdown files from my website.*
 
 ---
